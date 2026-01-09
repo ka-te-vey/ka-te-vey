@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/ka-te-vey/ka-te-vey/blob/main/git%20banner.png"/>
+
 <h1 align="center">Hi 👋, I'm Pich</h1>
 <h3 align="center">A Software Engineer from Cambodge</h3>
 
