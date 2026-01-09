@@ -52,3 +52,6 @@ Version Control
 <p align="left"> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/c%2B%2B.gif"width="80" height="80"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/css.gif" width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/figma.gif" width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/git.gif" width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/html.gif" width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/java.gif"  width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/js.gif" width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/python.gif" alt="python" width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/react.gif" width="40" height="40"/> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/tailwind.gif" width="40" height="40"/>  <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/GIF/vue.gif" width="40" height="40"/> </p> -->
 
 <p align="center"> <img src="https://github.com/ka-te-vey/ka-te-vey/blob/main/gif1.gif" width="400" /> </p>
+
+
+![snake gif](https://github.com/ka-te-vey/ka-te-vey/blob/output/github-snake-dark.svg)
