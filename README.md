@@ -5,7 +5,7 @@
 
 
 
-- 👩🏻‍💻 I’m currently learning **Frontend Developer**
+- 👩🏻‍💻 I’m currently learning **Prompt Engineer**
 
 - 🤝 I’m looking for collaborate on **any project**
 
